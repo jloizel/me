@@ -1,22 +1,24 @@
-# Hello there, I'm Jack 👋
+<h3 align="center">
+  Hello there, I'm Jack 👋
+<h3/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+coder;Tech+enthusiast;Problem+solver;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=E18EEC&size=24" alt="Typing SVG">
+</p>
 
-<div class="github-introduction">
-  
-I'm a passionate engineer with a focus on building scalable, efficient, useful and fun applications. I have a strong background in developing frontend applications with a backend integration. I have learned to develop a deep understanding of various coding languages and frameworks in a short amount of time which includes Typescript, JavaScript, Node.js, React and many more. I always enjoy solving challenging engineering problems. But above all — I love building things, especially things that others may find useful or interesting.
+<p align="center">
+  <a href="[https://www.youtube.com/c/DevProTips](https://www.linkedin.com/in/jackloizel/)"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/dark/linkedin.svg"/></a>
+</p>
 
-</div>
+<p class="github-introduction">
+  I'm a passionate engineer with a focus on building scalable, efficient, useful and fun applications. I have a strong background in developing frontend applications with a backend integration. I have learned to develop a deep understanding of various coding languages and frameworks in a short amount of time which includes Typescript, JavaScript, Node.js, React and many more. I always enjoy solving challenging engineering problems. But above all — I love building things, especially things that others may find useful or interesting.
+</p>
+<br/>
 
 - 💼 Interested in working together? Reach out to me via <a href="mailto:code@aar.one">email.</a>
 - 💬 Got a question or just curious about something? Feel free to ask!
 
-<div class="badges-intro">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-</div>
 
 ## 🌟 Featured Projects
 
