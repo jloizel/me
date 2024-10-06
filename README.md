@@ -1,14 +1,10 @@
-[![header](./banner.png)](https://aar.one)
+# Hello there, I'm Jack 👋
 
-# Oi, World! I'm Aaron 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <div class="github-introduction">
-
-I'm a **Web Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
-
-Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
+  
+I'm a passionate engineer with a focus on building scalable, efficient, useful and fun applications. I have a strong background in developing frontend applications with a backend integration. I have learned to develop a deep understanding of various coding languages and frameworks in a short amount of time which includes Typescript, JavaScript, Node.js, React and many more. I always enjoy solving challenging engineering problems. But above all — I love building things, especially things that others may find useful or interesting.
 
 </div>
 
