@@ -42,17 +42,18 @@ I'm a passionate engineer with a focus on building scalable, efficient, useful a
 | <img align="center" src="https://streak-stats.demolab.com?user=jloizel&theme=react&hide_border=true)](https://git.io/streak-stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jloizel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /> |
 | ------------- | ------------- |
 
+<br />
+
 ### 🌟 Featured Projects
+- 🎮 **metroguessr** - An engaging city-based game where players guess metro stations, boasting over 10,000 users and featured in leading publications.
 
-|  |  |
-|:--:|:--:|
-| **metroguessr**<br>An engaging city-based game where players guess metro stations, boasting over 10,000 users and featured in leading publications.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=metroguessr-client&theme=react) | **Engenious Recruitment**<br>A tailored website for Engenious, a construction recruitment firm, enhancing their online presence and streamlining the recruitment process.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=engenious-recruitment&theme=react) |
-| **HoopsToGlory**<br>A captivating incremental clicker game where players manage training and career decisions to secure the top NBA draft pick.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=hoopstoglory&theme=react) | **Portfolio**<br>An online portfolio showcasing my skills, projects, and background. Built for a clean, user-friendly experience.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=jloizel.github.io&theme=react) |
+- 🔍 **Engenious Recruitment** - A tailored website for Engenious, a construction recruitment firm, enhancing their online presence and streamlining the recruitment process.
 
+- 🏀 **HoopsToGlory** - A captivating incremental clicker game where players manage training and career decisions to secure the top NBA draft pick.
 
-
-
-
+- 📁 **Portfolio** - An online portfolio showcasing my skills, projects, and background. Built for a clean, user-friendly experience.
 
 <br />
-<br />
+
+👇 ***See below for the pinned repositories!***
+
