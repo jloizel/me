@@ -1,101 +1,58 @@
-<h3 align="center">
-  👋 Hello there, I'm Jack
-<h3/>
+<div align="center">
+  <h3>👋 Hello there, I'm Jack</h3>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+coder;Tech+enthusiast;Problem+solver;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=E18EEC&size=24" alt="Typing SVG">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+coder;Tech+enthusiast;Problem+solver;&font=Fira%20Code&center=true&width=380&height=40&duration=4000&pause=1000&color=FF4088&size=24" alt="Typing SVG">
+</div>
+
+I'm a passionate engineer with a focus on building scalable, efficient, useful and fun applications. I have a strong background in developing frontend applications with a backend integration. I have learned to develop a deep understanding of various coding languages and frameworks in a short amount of time. I always enjoy solving challenging engineering problems. But above all — I love building things, especially things that others may find useful or interesting.
 
 <h4 align="center">
-  🔗 <a href="https://jackloizel.com/" style="color:#E18EEC;">Check out my online portfolio <strong>here</strong></a> 🔗
+  <a href="https://www.linkedin.com/in/jackloizel/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/-CONNECT-0a66c2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:loizeljack@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-EMAIL-ff5d5d?style=for-the-badge&logo=gmail&logoColor=white&labelColor" alt="Gmail"></a>
+  <a href="https://jackloizel.com/" title="Portfolio"><img src="https://img.shields.io/badge/-EXPLORE-FF4088?style=for-the-badge&logo=googleCloud&logoColor=white" alt="Portfolio"></a>
 </h4>
 
-<h4>
-  I'm a passionate engineer with a focus on building scalable, efficient, useful and fun applications. I have a strong background in developing frontend applications with a backend integration. I have learned to develop a deep understanding of various coding languages and frameworks in a short amount of time which includes Typescript, JavaScript, Node.js, React and many more. I always enjoy solving challenging engineering problems. But above all — I love building things, especially things that others may find useful or interesting.
-</h4>
-
-
-
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/jackloizel/" title="LinkedIn Profile"><img width="24" src="/LinkedIN.png"> LinkedIn</a></code>
-  <code><a href="mailto:loizeljack@gmail.com" title="Instagram Profile"><img width="24" src="/Gmail.png"> Gmail</a></code>
-</h5>
-
-
+### 🔨 Languages and Tools:
+<code><img src="/Assets/typescript-color.svg" alt="typescript" height="35px"/></code>
+<code><img src="/Assets/javascript-color.svg" alt="javascript" height="35px"/></code>
+<code><img src="/Assets/python-color.svg" alt="python" height="35px"/></code>
+<code><img src="/Assets/mongodb-color.svg" alt="mongoDB" height="35px"/></code>
+<code><img src="/Assets/react-color.svg" alt="react" height="35px"/></code>
+<code><img src="/Assets/nextdotjs-color.svg" alt="nextJS" height="35px"/></code>
+<code><img src="/Assets/nodedotjs-color.svg" alt="nodeJS" height="35px"/></code>
+<code><img src="/Assets/npm-color.svg" alt="npm" height="35px"/></code>
+<code><img src="/Assets/notion-color.svg" alt="notion" height="35px"/></code>
+<code><img src="/Assets/rhinoceros-color.svg" alt="rhino" height="35px"/></code>
 
 <br/>
 
-- 💼 Interested in working together? Reach out to me via <a href="mailto:code@aar.one">email.</a>
+### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45" /> About Me:
+- 💻  I love exploring new technologies and building cool stuff.
+- 🚀 I’m currently exploring JS, TS, React, etc.
+- ⚡ Fun fact: I started playing basketball when I was 3.
+- 👯 Let’s connect for a game of Chess ♟.
 - 💬 Got a question or just curious about something? Feel free to ask!
 
+</br>
 
-## 🌟 Featured Projects
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-- **[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme** is a set of configuration files designed to give Windows an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, providing a unique and cohesive look that enhances the user experience. In addition to the visual enhancements, I’ve also integrated several Linux-like functionalities into Windows, making the operating system more powerful and customizable for advanced users. Furthermore, I am working on custom glyphs to enhance the [Windows Terminal](https://github.com/microsoft/terminal) experience, making it more visually appealing and user-friendly.
+| <img align="center" src="https://streak-stats.demolab.com?user=jloizel&theme=react&hide_border=true)](https://git.io/streak-stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jloizel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /> |
+| ------------- | ------------- |
 
-- I am working on a comprehensive **PowerShell profile** that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
+### 🌟 Featured Projects
 
-## 📈 My GitHub stats
+|  |  |
+|:--:|:--:|
+| <h3>metroguessr</h3>An engaging city-based game where players guess metro stations, boasting over 10,000 users and featured in leading publications.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=metroguessr-client&theme=react) | <h3>Engenious Recruitment</h3>A tailored website for Engenious, a construction recruitment firm, enhancing their online presence and streamlining the recruitment process.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=engenious-recruitment&theme=react) |
+| <h3>HoopsToGlory</h3>A captivating incremental clicker game where players manage training and career decisions to secure the top NBA draft pick.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=hoopstoglory&theme=react) | <h3>Portfolio</h3>An online portfolio showcasing my skills, projects, and background. Built for a clean, user-friendly experience.<br><br>![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jloizel&repo=jloizel.github.io&theme=react) |
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
-  </p>
-</div>
 
-## 📃 I love documentation
 
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
 
-In addition to my love for documentation, *I'm currently working on a custom Obsidian theme* as part of my **Violet Void theme** series. This theme features rich, deep purple colors with transparency effects, providing a sleek and modern look. I'm already using it myself, and it looks dope! I plan to release this theme soon so others can enjoy it as well.
 
-Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
 
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
-3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
-
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-### <p align="center">⚙️ My development environment </p>
-
-> I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
-
-#### 🖥️ Windows PowerUser
-
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
-
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  </td>
-  <td valign="top" width="50%">
-
-#### 🐧 Linux Enthusiast
-
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
-
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-  </td>
-  </tr>
-  </table>
-</div>
-
----
+<br />
+<br />
